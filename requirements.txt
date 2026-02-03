@@ -1,0 +1,10 @@
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.14.0
+scikit-learn>=1.2.0
+pandas>=2.0.0
+numpy>=1.24.0
+pyarabic>=0.6.15
+farasa>=0.0.1
+arabert>=1.0.1
+accelerate>=0.21.0
