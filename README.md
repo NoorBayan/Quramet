@@ -2,6 +2,9 @@
 
 This repository contains the official implementation for the paper: **"Decoding the Rhetorical Layers of Isti'aara: A Multi-Dimensional Computational Framework for Qur'anic Metaphor Analysis"**.
 
+<!-- Badge for Colab -->
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1E14PcnrutLT8tk5kDOFsk0I6P45qhfbR/view?usp=sharing)
+
 ## 📌 Overview
 
 This project introduces a **Structured Rhetorical Parsing** framework for Qur'anic metaphors (*Isti'aara*). Unlike traditional binary detection, we classify metaphors across three simultaneous dimensions using State-of-the-Art Arabic Transformer models.
